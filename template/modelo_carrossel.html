@@ -1,0 +1,116 @@
+<!DOCTYPE html>
+<html><head><meta charset="utf-8">
+<style>
+*{margin:0;padding:0;box-sizing:border-box}
+body{font-family:'Poppins',sans-serif;background:#ccc}
+.s{width:1080px;height:1350px;position:relative;overflow:hidden;background:#fff;color:#12317f;padding:110px 96px;display:flex;flex-direction:column}
+.blue{background:#12317f;color:#fff}
+.orange{color:#F97316}
+.tagline{font-weight:600;font-size:30px;letter-spacing:4px;text-transform:uppercase;color:#F97316}
+h1{font-weight:800;font-size:104px;line-height:1.02;letter-spacing:-2px}
+h2{font-weight:800;font-size:80px;line-height:1.05;letter-spacing:-1px}
+p{font-size:40px;line-height:1.35;font-weight:500}
+.foot{position:absolute;left:96px;right:96px;bottom:70px;display:flex;justify-content:space-between;align-items:center;font-weight:600;font-size:28px}
+.foot img{height:56px}
+.dots{display:flex;gap:10px}.dots i{width:14px;height:14px;border-radius:50%;background:currentColor;opacity:.25}.dots i.on{opacity:1;background:#F97316}
+/* label mock */
+.label{width:520px;height:700px;background:#fff;border-radius:18px;box-shadow:0 30px 60px rgba(0,0,0,.35);padding:34px;color:#111;font-family:'Inter',sans-serif;transform:rotate(-6deg);position:absolute;right:60px;bottom:150px;width:470px;height:640px}
+.label .row{height:14px;background:#d9d9d9;border-radius:7px;margin:12px 0}
+.bar{display:flex;gap:6px;height:170px;margin:26px 0}
+.bar b{background:#111;display:block}
+.box{border:3px solid #111;border-radius:8px;padding:18px;margin-top:18px}
+.chip{display:inline-block;background:#F97316;color:#fff;font-weight:700;font-size:34px;padding:12px 30px;border-radius:999px}
+.list{margin-top:50px;display:flex;flex-direction:column;gap:30px}
+.item{display:flex;gap:28px;align-items:center;font-size:42px;font-weight:600}
+.item span{flex:0 0 120px;height:92px;border-radius:24px;background:#FFF1E7;color:#F97316;font-weight:800;font-size:40px;display:flex;align-items:center;justify-content:center}
+.blue .item span{background:rgba(255,255,255,.12)}
+.kits{display:grid;grid-template-columns:repeat(5,1fr);gap:22px;margin-top:70px}
+.kit{border:4px solid #12317f;border-radius:28px;text-align:center;padding:36px 0}
+.kit b{display:block;font-size:84px;font-weight:800;line-height:1}
+.kit small{font-size:28px;font-weight:600}
+.mini{display:grid;grid-template-columns:1fr 1fr;gap:18px;width:820px;margin-top:70px;background:#f3f3f3;padding:24px;border-radius:20px}
+.mini>div{background:#fff;border-radius:10px;height:200px;box-shadow:0 4px 10px rgba(0,0,0,.12);padding:16px;display:flex;flex-direction:column;justify-content:space-between}
+.mini .b{display:flex;gap:5px;height:100px}.mini .b b{background:#111}
+</style></head><body>
+
+<!-- 1 CAPA -->
+<div class="s blue" id="s1">
+  <div class="tagline">Fábrica de etiquetas</div>
+  <h1 style="margin-top:40px">Quem faz a<br>etiqueta do<br>seu <span class="orange">envio?</span></h1>
+  <p style="margin-top:44px;opacity:.85">A gente faz.<br>Direto da fábrica.</p>
+  <div class="label">
+    <div style="font-weight:800;font-size:30px">ENVIO</div>
+    <div class="row" style="width:80%"></div><div class="row" style="width:60%"></div>
+    <div class="bar" id="bc"></div>
+    <div class="box"><div class="row" style="width:90%"></div><div class="row" style="width:70%"></div><div class="row" style="width:50%"></div></div>
+    <div style="display:flex;justify-content:space-between;margin-top:22px"><div class="row" style="width:40%"></div><div style="width:120px;height:120px;background:repeating-conic-gradient(#111 0 25%,#fff 0 50%) 0 0/30px 30px;margin-top:-10px"></div></div>
+  </div>
+  <div class="foot"><span>@e.tiqueta.oficial</span><div class="dots"><i class="on"></i><i></i><i></i><i></i><i></i><i></i></div></div>
+</div>
+
+<!-- 2 QUEM SOMOS -->
+<div class="s" id="s2">
+  <div class="tagline">Prazer, E-tiqueta</div>
+  <h2 style="margin-top:40px">Etiquetas feitas<br>para quem <span class="orange">vende online</span></h2>
+  <p style="margin-top:40px;color:#333">Somos fábrica. Produzimos as etiquetas que vão coladas em cada pacote que sai da sua loja.</p>
+  <div class="list">
+    <div class="item"><span>ML</span>Mercado Livre</div>
+    <div class="item"><span>SH</span>Shopee</div>
+    <div class="item"><span>AZ</span>Amazon</div>
+    <div class="item"><span>F</span>Envios Full</div>
+  </div>
+  <div class="foot" style="color:#12317f"><img src="wordmark.png"><div class="dots"><i></i><i class="on"></i><i></i><i></i><i></i><i></i></div></div>
+</div>
+
+<!-- 3 PRODUTO -->
+<div class="s blue" id="s3">
+  <div class="tagline">O carro-chefe</div>
+  <h1 style="margin-top:40px">10x15<br><span class="orange">couchê</span></h1>
+  <p style="margin-top:30px;opacity:.85">O tamanho padrão da etiqueta de envio dos marketplaces.</p>
+  <div class="list">
+    <div class="item"><span>30m</span>Rolo de 30 metros</div>
+    <div class="item"><span>200</span>Cerca de 200 etiquetas por rolo</div>
+    <div class="item"><span>✓</span>Para impressora com ribbon</div>
+  </div>
+  <div class="foot"><span>@e.tiqueta.oficial</span><div class="dots"><i></i><i></i><i class="on"></i><i></i><i></i><i></i></div></div>
+</div>
+
+<!-- 4 KITS -->
+<div class="s" id="s4">
+  <div class="tagline">Kits por volume</div>
+  <h2 style="margin-top:40px">Escolha pelo<br>tamanho da sua<br><span class="orange">operação</span></h2>
+  <div class="kits">
+    <div class="kit"><b>4</b><small>rolos</small></div>
+    <div class="kit"><b>5</b><small>rolos</small></div>
+    <div class="kit"><b>6</b><small>rolos</small></div>
+    <div class="kit"><b>8</b><small>rolos</small></div>
+    <div class="kit" style="background:#F97316;border-color:#F97316;color:#fff"><b>10</b><small>rolos</small></div>
+  </div>
+  <p style="margin-top:70px;color:#333">Vende muito? Leve o kit maior e não fique sem etiqueta no meio do expediente.</p>
+  <div class="foot" style="color:#12317f"><img src="wordmark.png"><div class="dots"><i></i><i></i><i></i><i class="on"></i><i></i><i></i></div></div>
+</div>
+
+<!-- 5 FULL -->
+<div class="s blue" id="s5">
+  <div class="tagline">Vai mandar para o Full?</div>
+  <h2 style="margin-top:40px">Etiqueta <span class="orange">5x2,5 cm</span><br>em 2 colunas</h2>
+  <p style="margin-top:36px;opacity:.85">Para identificar cada produto antes de enviar ao centro de distribuição.</p>
+  <div class="mini" id="mini"></div>
+  <div class="foot"><span>@e.tiqueta.oficial</span><div class="dots"><i></i><i></i><i></i><i></i><i class="on"></i><i></i></div></div>
+</div>
+
+<!-- 6 CTA -->
+<div class="s" id="s6" style="align-items:center;text-align:center;justify-content:center">
+  <img src="tag.png" style="width:440px">
+  <h2 style="margin-top:60px">Compre direto<br>da <span class="orange">fábrica</span></h2>
+  <p style="margin-top:36px;color:#333">Nossa loja fica no Mercado Livre.</p>
+  <div class="chip" style="margin-top:50px">👆 Link na bio</div>
+  <p style="margin-top:50px;font-weight:700;font-size:36px">Siga @e.tiqueta.oficial</p>
+  <div class="foot" style="color:#12317f;justify-content:center"><div class="dots"><i></i><i></i><i></i><i></i><i></i><i class="on"></i></div></div>
+</div>
+
+<script>
+const bc=document.getElementById('bc');[6,2,4,2,8,3,2,6,2,4,3,7,2,5,2,3,6,2].forEach(w=>{const b=document.createElement('b');b.style.width=w+'px';bc.appendChild(b)});
+const m=document.getElementById('mini');for(let i=0;i<4;i++){const d=document.createElement('div');d.innerHTML='<div class="b">'+[4,2,3,1,4,2,1,3,2,4,1,2].map(w=>'<b style="width:'+w+'px"></b>').join('')+'</div><div style="height:10px;background:#ddd;border-radius:5px;width:70%"></div>';m.appendChild(d)}
+</script>
+</body></html>
