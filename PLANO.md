@@ -17,7 +17,7 @@
 - Português do Brasil, tom direto e amigável, emojis com moderação, termina com "👉 Link na bio" e 6–10 hashtags (#etiqueta #etiqueta10x15 #mercadolivre #shopee #ecommerce #vendedormercadolivre #mercadolivrefull #etiquetadeenvio ...).
 
 ## Fila de temas (pegar o primeiro sem ✅, marcar ✅ com a data ao publicar)
-1. ✅ 2026-11-20 — Apresentação: "Quem faz a etiqueta do seu envio?" (posts/2026-11-23-apresentacao)
+1. ✅ 2026-11-23 — Apresentação: "Quem faz a etiqueta do seu envio?" (posts/2026-11-23-apresentacao)
 2. Black Friday: "Quantas etiquetas você vai precisar?" — conta simples: pedidos por dia × dias de pico ÷ 200 = rolos; exemplo numérico; CTA para não ficar sem etiqueta.
 3. "Térmica ou couchê: qual etiqueta serve na sua impressora?" — térmica direta não usa ribbon; couchê usa ribbon, imprime nítido e borra menos.
 4. "Vai mandar para o Full? Identifique certo" — etiqueta 5x2,5 em 2 colunas para identificar produtos.
@@ -30,4 +30,4 @@
 Quando a fila acabar, criar novos temas no mesmo estilo (educativo para vendedor de marketplace + produto) e adicioná-los aqui.
 
 ## Histórico de publicações
-- 2026-11-20 — Apresentação (carrossel 6 slides, pasta posts/2026-11-23-apresentacao)
+- 2026-11-23 — Apresentação (carrossel 6 slides) — agendado para 12h
