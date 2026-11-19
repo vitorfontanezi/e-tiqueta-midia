@@ -16,6 +16,13 @@
 ## Legenda
 - Português do Brasil, tom direto e amigável, emojis com moderação, termina com "👉 Link na bio" e 6–10 hashtags (#etiqueta #etiqueta10x15 #mercadolivre #shopee #ecommerce #vendedormercadolivre #mercadolivrefull #etiquetadeenvio ...).
 
+## Aprendizados da pesquisa de concorrentes (19/11/2026)
+- Concorrentes ativos no Instagram: E-Factory ("a fábrica para o seu e-commerce"), Day Use Embalagens (Franca-SP), Supri Atacado (Curitiba), Embala Imports, Sheik das Etiquetas, Expedy, Leplastique, APM Embalagens.
+- Quase todos vendem térmica direta ("não precisa de ribbon") e usam posts de preço/promoção com WhatsApp. A E-tiqueta é couchê com ribbon: comunicar com clareza para quem ela serve, sem atacar a térmica.
+- O que mais aparece na busca "etiqueta para ecommerce" são Reels educativos de vendedores (como imprimir, como colar, SKU na etiqueta). Carrosséis educativos com gancho forte na capa são o nosso formato por enquanto.
+- Capas que funcionam: pergunta direta ao vendedor ("Seu envio parou?", "Qual rolo combina com o seu envio?"), produto em destaque, frase curta grande.
+- Hashtags extras para variar: #etiquetatermica #expedicao #vendedorshopee #mercadolivrebrasil #dicasdeecommerce #empreendedorismodigital #etiqueta100x150
+
 ## Fila de temas (pegar o primeiro sem ✅, marcar ✅ com a data ao publicar)
 1. ✅ 2026-11-23 — Apresentação: "Quem faz a etiqueta do seu envio?" (posts/2026-11-23-apresentacao)
 2. Black Friday: "Quantas etiquetas você vai precisar?" — conta simples: pedidos por dia × dias de pico ÷ 200 = rolos; exemplo numérico; CTA para não ficar sem etiqueta.
@@ -27,6 +34,9 @@
 8. "Mitos e verdades sobre etiqueta de envio".
 9. "Por que comprar direto da fábrica?" (sem citar preços).
 10. "Dúvidas frequentes" (tamanho, quantidade por rolo, impressora, kits).
+11. "Raio-X da etiqueta de envio" — o que é cada parte de uma etiqueta 10x15 de marketplace (código de barras, destinatário, rota/agência, QR) e por que ela precisa sair nítida (por isso a couchê com ribbon).
+12. "Sua impressora usa ribbon? Descubra em 10 segundos" — como saber se a impressora é térmica direta ou de transferência (tem o rolo de fita/ribbon?) e para qual a couchê serve.
+13. "Seu estoque de etiqueta acabou na pior hora?" — dica de planejar reposição por volume (gancho de urgência, sem preço).
 Quando a fila acabar, criar novos temas no mesmo estilo (educativo para vendedor de marketplace + produto) e adicioná-los aqui.
 
 ## Histórico de publicações
