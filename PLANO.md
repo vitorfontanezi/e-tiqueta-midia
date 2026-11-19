@@ -21,13 +21,16 @@
 - Quase todos vendem térmica direta ("não precisa de ribbon") e usam posts de preço/promoção com WhatsApp. A E-tiqueta é couchê com ribbon: comunicar com clareza para quem ela serve, sem atacar a térmica.
 - O que mais aparece na busca "etiqueta para ecommerce" são Reels educativos de vendedores (como imprimir, como colar, SKU na etiqueta). Carrosséis educativos com gancho forte na capa são o nosso formato por enquanto.
 - Capas que funcionam: pergunta direta ao vendedor ("Seu envio parou?", "Qual rolo combina com o seu envio?"), produto em destaque, frase curta grande.
+- Referência principal: @ecompack_ (81,6 mil seguidores, embalagens para e-commerce). Fixa 3 carrosséis no topo ("Quem somos nós?", "Quais produtos vendemos?", "Por que escolher...?"), capas com título enorme em caixa alta e palavra-chave em destaque de outra cor, e o resto do feed é quase só Reels com gente da equipe (humor de trabalho, bastidores das máquinas, dono anunciando oferta no galpão). Usar a mesma lógica de capa: título curto e gigante, 1 palavra em laranja.
+- Temas inspirados: "Por que escolher a E-tiqueta?" e "Quais produtos a E-tiqueta vende?" (para fixar no perfil junto com a apresentação).
 - Hashtags extras para variar: #etiquetatermica #expedicao #vendedorshopee #mercadolivrebrasil #dicasdeecommerce #empreendedorismodigital #etiqueta100x150
 
 ## Fila de temas (pegar o primeiro sem ✅, marcar ✅ com a data ao publicar)
 1. ✅ 2026-11-23 — Apresentação: "Quem faz a etiqueta do seu envio?" (posts/2026-11-23-apresentacao)
-2. Black Friday: "Quantas etiquetas você vai precisar?" — conta simples: pedidos por dia × dias de pico ÷ 200 = rolos; exemplo numérico; CTA para não ficar sem etiqueta.
+2. Black Friday (publicar até 26/11; depois dessa data, pular este tema): "Quantas etiquetas você vai precisar?" — conta simples: pedidos por dia × dias de pico ÷ 200 = rolos; exemplo numérico; CTA para não ficar sem etiqueta.
 3. "Térmica ou couchê: qual etiqueta serve na sua impressora?" — térmica direta não usa ribbon; couchê usa ribbon, imprime nítido e borra menos.
-4. "Vai mandar para o Full? Identifique certo" — etiqueta 5x2,5 em 2 colunas para identificar produtos.
+4. "Quais produtos a E-tiqueta vende?" — vitrine: 10x15 couchê (rolo 30 m, ~200 etiquetas), kits de 4 a 10 rolos, 5x2,5 cm 2 colunas para o Full. (Para fixar no perfil.)
+4b. "Vai mandar para o Full? Identifique certo" — etiqueta 5x2,5 em 2 colunas para identificar produtos.
 5. "5 erros que fazem sua etiqueta de envio dar problema" (impressão fraca, ribbon errado, etiqueta torta, colar em dobra/fita, guardar rolo no sol/umidade).
 6. "Qual kit é o seu?" — guia por volume de pedidos/dia → kit de 4, 5, 6, 8 ou 10 rolos (explicar a conta com 200 etiquetas por rolo).
 7. "Checklist de expedição do vendedor" — etiqueta, embalagem, NF, conferência, coleta.
