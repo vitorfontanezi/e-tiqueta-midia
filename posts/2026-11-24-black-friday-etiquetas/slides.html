@@ -1,0 +1,114 @@
+<!DOCTYPE html>
+<html><head><meta charset="utf-8">
+<style>
+*{margin:0;padding:0;box-sizing:border-box}
+body{font-family:'Poppins',sans-serif;background:#ccc}
+.s{width:1080px;height:1350px;position:relative;overflow:hidden;background:#fff;color:#12317f;padding:110px 96px;display:flex;flex-direction:column}
+.blue{background:#12317f;color:#fff}
+.orange{color:#F97316}
+.tagline{font-weight:600;font-size:30px;letter-spacing:4px;text-transform:uppercase;color:#F97316}
+h1{font-weight:800;font-size:104px;line-height:1.02;letter-spacing:-2px}
+h2{font-weight:800;font-size:80px;line-height:1.05;letter-spacing:-1px}
+p{font-size:40px;line-height:1.35;font-weight:500}
+.foot{position:absolute;left:96px;right:96px;bottom:70px;display:flex;justify-content:space-between;align-items:center;font-weight:600;font-size:28px}
+.foot img{height:56px}
+.dots{display:flex;gap:10px}.dots i{width:14px;height:14px;border-radius:50%;background:currentColor;opacity:.25}.dots i.on{opacity:1;background:#F97316}
+.chip{display:inline-block;background:#F97316;color:#fff;font-weight:700;font-size:34px;padding:12px 30px;border-radius:999px}
+.list{margin-top:50px;display:flex;flex-direction:column;gap:30px}
+.item{display:flex;gap:28px;align-items:center;font-size:40px;font-weight:600;line-height:1.2}
+.item span{flex:0 0 120px;height:92px;border-radius:24px;background:#FFF1E7;color:#F97316;font-weight:800;font-size:40px;display:flex;align-items:center;justify-content:center}
+.blue .item span{background:rgba(255,255,255,.12)}
+.kits{display:grid;grid-template-columns:repeat(5,1fr);gap:22px;margin-top:60px}
+.kit{border:4px solid #fff;border-radius:28px;text-align:center;padding:36px 0}
+.kit b{display:block;font-size:84px;font-weight:800;line-height:1}
+.kit small{font-size:28px;font-weight:600}
+.formula{margin-top:60px;display:flex;flex-direction:column;gap:22px}
+.fbox{border:4px solid #12317f;border-radius:28px;padding:26px 36px;font-size:44px;font-weight:700;display:flex;align-items:center;gap:24px}
+.fbox em{font-style:normal;color:#F97316;font-weight:800;font-size:56px;width:50px;text-align:center}
+.fbox.res{background:#F97316;border-color:#F97316;color:#fff}
+.fbox.res em{color:#fff}
+.calc{margin-top:56px;display:flex;flex-direction:column;gap:26px}
+.calc div{display:flex;justify-content:space-between;align-items:baseline;font-size:42px;font-weight:600;border-bottom:2px solid rgba(255,255,255,.2);padding-bottom:20px}
+.calc b{font-size:56px;font-weight:800}
+.big{font-size:180px;font-weight:800;line-height:1;color:#F97316}
+</style></head><body>
+
+<!-- 1 CAPA -->
+<div class="s blue" id="s1">
+  <div class="tagline">Black Friday chegando</div>
+  <h1 style="margin-top:40px">Quantas<br>etiquetas<br>você vai<br><span class="orange">precisar?</span></h1>
+  <p style="margin-top:50px;opacity:.85">Faça a conta antes do pico<br>de pedidos. Leva 1 minuto.</p>
+  <div style="position:absolute;right:80px;bottom:190px;width:300px;height:300px;border-radius:50%;background:#F97316;display:flex;flex-direction:column;align-items:center;justify-content:center;transform:rotate(-8deg);box-shadow:0 30px 60px rgba(0,0,0,.35)">
+    <div style="font-size:120px;font-weight:800;line-height:1">?</div>
+    <div style="font-size:34px;font-weight:700">rolos</div>
+  </div>
+  <div class="foot"><span>@e.tiqueta.oficial</span><div class="dots"><i class="on"></i><i></i><i></i><i></i><i></i><i></i></div></div>
+</div>
+
+<!-- 2 FORMULA -->
+<div class="s" id="s2">
+  <div class="tagline">A conta é simples</div>
+  <h2 style="margin-top:40px">Uma etiqueta<br>por <span class="orange">pacote</span></h2>
+  <div class="formula">
+    <div class="fbox"><em></em>Pedidos por dia</div>
+    <div class="fbox"><em>×</em>Dias de pico</div>
+    <div class="fbox"><em>÷</em>200 etiquetas por rolo</div>
+    <div class="fbox res"><em>=</em>Rolos que você precisa</div>
+  </div>
+  <p style="margin-top:44px;color:#333;font-size:36px">Cada rolo 10x15 tem 30 m e cerca de 200 etiquetas.</p>
+  <div class="foot" style="color:#12317f"><img src="../../template/wordmark.png"><div class="dots"><i></i><i class="on"></i><i></i><i></i><i></i><i></i></div></div>
+</div>
+
+<!-- 3 EXEMPLO -->
+<div class="s blue" id="s3">
+  <div class="tagline">Na prática</div>
+  <h2 style="margin-top:40px">Vamos a um<br><span class="orange">exemplo</span></h2>
+  <div class="calc">
+    <div><span>Pedidos por dia</span><b>120</b></div>
+    <div><span>Dias de pico</span><b>× 7</b></div>
+    <div><span>Etiquetas no total</span><b>840</b></div>
+    <div><span>÷ 200 por rolo</span><b>4,2</b></div>
+  </div>
+  <p style="margin-top:50px">Arredonde para cima: <span class="orange" style="font-weight:800">5 rolos.</span></p>
+  <div class="foot"><span>@e.tiqueta.oficial</span><div class="dots"><i></i><i></i><i class="on"></i><i></i><i></i><i></i></div></div>
+</div>
+
+<!-- 4 DICAS -->
+<div class="s" id="s4">
+  <div class="tagline">Antes de fechar a conta</div>
+  <h2 style="margin-top:40px">Deixe uma<br><span class="orange">folga</span></h2>
+  <div class="list" style="margin-top:60px">
+    <div class="item"><span>↑</span>Sempre arredonde para cima</div>
+    <div class="item"><span>↻</span>Conte as reimpressões e etiquetas perdidas</div>
+    <div class="item"><span>+</span>Pense nos dias depois do pico, que ainda têm pedidos</div>
+    <div class="item"><span>✓</span>Confira o estoque antes de a demanda subir</div>
+  </div>
+  <div class="foot" style="color:#12317f"><img src="../../template/wordmark.png"><div class="dots"><i></i><i></i><i></i><i class="on"></i><i></i><i></i></div></div>
+</div>
+
+<!-- 5 KITS -->
+<div class="s blue" id="s5">
+  <div class="tagline">Kits de etiqueta 10x15</div>
+  <h2 style="margin-top:40px">Qual kit cobre<br>o seu <span class="orange">pico?</span></h2>
+  <div class="kits">
+    <div class="kit"><b>4</b><small>rolos</small></div>
+    <div class="kit" style="background:#F97316;border-color:#F97316"><b>5</b><small>rolos</small></div>
+    <div class="kit"><b>6</b><small>rolos</small></div>
+    <div class="kit"><b>8</b><small>rolos</small></div>
+    <div class="kit"><b>10</b><small>rolos</small></div>
+  </div>
+  <p style="margin-top:60px;opacity:.85">No exemplo, deu 5 rolos. Vende mais que isso? Os kits vão até 10.</p>
+  <p style="margin-top:30px;font-size:32px;opacity:.7">Couchê 10x15 para impressora com ribbon.</p>
+  <div class="foot"><span>@e.tiqueta.oficial</span><div class="dots"><i></i><i></i><i></i><i></i><i class="on"></i><i></i></div></div>
+</div>
+
+<!-- 6 CTA -->
+<div class="s" id="s6" style="align-items:center;text-align:center;justify-content:center">
+  <img src="../../template/tag.png" style="width:400px">
+  <h2 style="margin-top:60px">Não fique sem<br>etiqueta no <span class="orange">pico</span></h2>
+  <p style="margin-top:36px;color:#333">Compre direto da fábrica na nossa loja do Mercado Livre.</p>
+  <div class="chip" style="margin-top:50px">👆 Link na bio</div>
+  <p style="margin-top:50px;font-weight:700;font-size:36px">Siga @e.tiqueta.oficial</p>
+  <div class="foot" style="color:#12317f;justify-content:center"><div class="dots"><i></i><i></i><i></i><i></i><i></i><i class="on"></i></div></div>
+</div>
+</body></html>
