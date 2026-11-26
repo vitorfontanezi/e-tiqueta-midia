@@ -28,7 +28,7 @@
 ## Fila de temas (pegar o primeiro sem ✅, marcar ✅ com a data ao publicar)
 1. ✅ 2026-11-23 — Apresentação: "Quem faz a etiqueta do seu envio?" (posts/2026-11-23-apresentacao)
 2. ✅ 2026-11-24 — Black Friday (publicar até 26/11; depois dessa data, pular este tema): "Quantas etiquetas você vai precisar?" — conta simples: pedidos por dia × dias de pico ÷ 200 = rolos; exemplo numérico; CTA para não ficar sem etiqueta. (posts/2026-11-24-black-friday-etiquetas)
-3. "Térmica ou couchê: qual etiqueta serve na sua impressora?" — térmica direta não usa ribbon; couchê usa ribbon, imprime nítido e borra menos.
+3. ✅ 2026-11-26 — "Térmica ou couchê: qual etiqueta serve na sua impressora?" — térmica direta não usa ribbon; couchê usa ribbon, imprime nítido e borra menos. (posts/2026-11-26-termica-ou-couche)
 4. "Quais produtos a E-tiqueta vende?" — vitrine: 10x15 couchê (rolo 30 m, ~200 etiquetas), kits de 4 a 10 rolos, 5x2,5 cm 2 colunas para o Full. (Para fixar no perfil.)
 4b. "Vai mandar para o Full? Identifique certo" — etiqueta 5x2,5 em 2 colunas para identificar produtos.
 5. "5 erros que fazem sua etiqueta de envio dar problema" (impressão fraca, ribbon errado, etiqueta torta, colar em dobra/fita, guardar rolo no sol/umidade).
@@ -45,3 +45,4 @@ Quando a fila acabar, criar novos temas no mesmo estilo (educativo para vendedor
 ## Histórico de publicações
 - 2026-11-23 — Apresentação (carrossel 6 slides) — agendado para 12h
 - 2026-11-24 — Black Friday: "Quantas etiquetas você vai precisar?" (carrossel 6 slides) — publicado
+- 2026-11-26 — "Térmica ou couchê?" (carrossel 7 slides) — publicado
